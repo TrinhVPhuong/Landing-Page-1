@@ -1,2 +1,2 @@
-# Landing-Page-1
-Landing page use Bootstrap 4
+# Single-Page-1
+Single page use Bootstrap 4
